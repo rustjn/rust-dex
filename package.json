@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-dex",
-  "version": "1.0.130",
+  "version": "1.0.131",
   "description": "Description for rust-dex",
   "main": "src/index.js",
   "scripts": {
